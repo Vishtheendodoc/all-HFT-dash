@@ -8,7 +8,7 @@ import plotly.graph_objects as go
 
 # ---------------- CONFIG ----------------
 # Replace with your deployed backend URL on Render
-BACKEND_URL = "https://your-backend-service.onrender.com"
+BACKEND_URL = "https://all-hft.onrender.com"
 
 # Path to same stocks.csv as backend
 STOCKS_CSV = "stocks.csv"
